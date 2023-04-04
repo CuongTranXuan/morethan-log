@@ -6,8 +6,8 @@ const CONFIG = {
     role: "AI Engineer",
     bio: "on this stone i build my church.",
     email: "cuongtranxuan.pfiev@gmail.com",
-    linkedin: "https://www.linkedin.com/in/tran-xuan-cuong-0405281b7/",
-    github: "https://github.com/CuongTranXuan",
+    linkedin: "tran-xuan-cuong-0405281b7",
+    github: "CuongTranXuan",
     instagram: "",
   },
   projects: [
